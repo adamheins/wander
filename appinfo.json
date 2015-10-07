@@ -1,0 +1,28 @@
+{
+  "uuid": "42a508fe-a835-4e8d-aedc-b8b87af2b5c2",
+  "shortName": "adventure",
+  "longName": "adventure",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media":  [
+      {
+        "type": "png",
+        "name": "ACTION",
+        "file": "action.png"
+      },{
+        "type": "png",
+        "name": "REDO",
+        "file": "redo.png"
+      }
+    ]
+  }
+}
